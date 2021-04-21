@@ -1,6 +1,13 @@
-# devquiz
+# DevQuiz
 
-A new Flutter project.
+A Flutter project created on NeverStopLearning 05.
+
+- Contents adressed to this course:
+
+* Containers, Scaffold
+* Splash Screen
+* Home Page
+* App Bar
 
 ## Getting Started
 
