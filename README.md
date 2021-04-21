@@ -2,7 +2,7 @@
 
 A Flutter project created on NeverStopLearning 05.
 
-- Contents adressed to this course:
+Contents adressed to this course:
 
 * Containers, Scaffold
 * Splash Screen
