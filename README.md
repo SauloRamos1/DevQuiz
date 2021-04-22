@@ -3,8 +3,7 @@
 A Flutter project created on NeverStopLearning 05.
 
 <details>
-<summary>Day 1</summary>
-<br>
+    <summary>Day 1</summary>
 + Introdução ao Flutter
     + Como funciona a renderização?
     + Quais plataformas posso utilizar o Flutter?
