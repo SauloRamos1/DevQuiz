@@ -2,13 +2,6 @@
 
 A Flutter project created on NeverStopLearning 05.
 
-Contents adressed to this course:
-
-* Containers, Scaffold
-* Splash Screen
-* Home Page
-* App Bar
-
 <details>
 <summary>Day 1</summary>
 <br>
