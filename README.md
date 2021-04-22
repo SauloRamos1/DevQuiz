@@ -9,8 +9,9 @@ Contents adressed to this course:
 * Home Page
 * App Bar
 
-Day 1
-
+<details>
+<summary>Day 1</summary>
+<br>
 Introdução ao Flutter
 
 - [ ]  Como funciona a renderização?
@@ -57,3 +58,4 @@ Criando os widgets da home
                 - subtitle
                 - background
                 - shadow
+</details>
