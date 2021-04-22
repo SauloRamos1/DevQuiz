@@ -3,14 +3,16 @@
 A Flutter project created on NeverStopLearning 05.
 
 <details>
-    <summary>Day 1</summary>
-+ Introdução ao Flutter
-    + Como funciona a renderização?
-    + Quais plataformas posso utilizar o Flutter?
-    + Posso acessar recursos das plataformas nativas?
-    + Como funciona a renderização?
-    + Quais plataformas posso utilizar o Flutter?
-    + Posso acessar recursos das plataformas nativas?
+<summary>Day 1</summary>
+
+Introdução ao Flutter
+    
+- [ ]  Como funciona a renderização?
+- [ ]  Quais plataformas posso utilizar o Flutter?
+- [ ]  Posso acessar recursos das plataformas nativas?
+- [ ]  Como funciona a renderização?
+- [ ]  Quais plataformas posso utilizar o Flutter?
+- [ ]  Posso acessar recursos das plataformas nativas?
 
 Conceitos básicos de layout
 
