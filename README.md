@@ -1,7 +1,7 @@
 
 # DevQuiz
 
-A Flutter project created on NeverStopLearning 05.
+A Flutter project created on NextLevelWeek 05.
 
 ![Screenshot_select-area_20210424021829](https://user-images.githubusercontent.com/82850970/115948259-8866e000-a4a3-11eb-920d-31020e49f822.png)
 ![Screenshot_select-area_20210424021922](https://user-images.githubusercontent.com/82850970/115948263-8a30a380-a4a3-11eb-8626-21d20379db8e.png)
