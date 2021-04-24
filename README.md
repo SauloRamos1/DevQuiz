@@ -1,9 +1,12 @@
-![abc-123](https://user-images.githubusercontent.com/82850970/115948206-273f0c80-a4a3-11eb-8ccd-561dbfe83dd9.jpg)
+
 # DevQuiz
 
 A Flutter project created on NeverStopLearning 05.
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FM5BUOZMoLds8KcWEUpqQwb%2FDevQuiz-Copy%3Fnode-id%3D2%253A3" allowfullscreen></iframe>
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FM5BUOZMoLds8KcWEUpqQwb%2FDevQuiz-Copy%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
+![Screenshot_select-area_20210424021829](https://user-images.githubusercontent.com/82850970/115948259-8866e000-a4a3-11eb-920d-31020e49f822.png)
+![Screenshot_select-area_20210424021922](https://user-images.githubusercontent.com/82850970/115948263-8a30a380-a4a3-11eb-8626-21d20379db8e.png)
+
+https://www.figma.com/file/M5BUOZMoLds8KcWEUpqQwb/DevQuiz-Copy?node-id=0%3A1
 
 <details>
 <summary>Day 1</summary>
