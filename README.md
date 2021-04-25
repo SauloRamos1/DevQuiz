@@ -214,4 +214,4 @@ Criando os widgets da home
  <img src="https://user-images.githubusercontent.com/82850970/115948263-8a30a380-a4a3-11eb-8626-21d20379db8e.png"/>
  </p>
 
-Readme based on [danielschmitz repository] (https://github.com/danielschmitz/devquiz). 
+Readme based on [danielschmitz repository](https://github.com/danielschmitz/devquiz). 
