@@ -83,27 +83,28 @@ Criando os widgets da home
 
 <details>
 <summary>Day 2</summary>
+    
 - [ ]  LevelButton
-    - title
-    - background
-    - textStyle
-    - borderRadius
-    - onTap
+    - [ ]  title
+    - [ ]  background
+    - [ ]  textStyle
+    - [ ]  borderRadius
+    - [ ]  onTap
 - [ ]  QuizCard
-    - icon
-    - title
-    - score
-    - progress bar
-    - onTap
+    - [ ]  icon
+    - [ ]  title
+    - [ ]  score
+    - [ ]  progress bar
+    - [ ]  onTap
 - [ ]  Utilizar ListView
 - [ ]  Criar ChallengePage
     - [ ]  Criar QuestionIndicatorWidget
-        - currentQuestion
-        - sizeQuestions
+        - [ ] currentQuestion
+        - [ ] sizeQuestions
     - [ ]  Criar QuizWidget
-        - titleQuestion
+        - [ ]  titleQuestion
         - [ ]  AwnserWidget
-            - Link do arquivo
+            - [ ] Link do arquivo
 
             [https://pastebin.com/sW1FXrmR](https://pastebin.com/sW1FXrmR)
 
