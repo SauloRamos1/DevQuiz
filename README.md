@@ -137,6 +137,7 @@ Criando os widgets da home
 
 <details>
 <summary>Day 3</summary>
+    
 - [ ]  Estruturando os dados do aplicativo
     - [ ]  Quiz
         - List<Question>
@@ -168,6 +169,7 @@ Criando os widgets da home
     
 <details>
 <summary>Day 4</summary>
+    
 - [ ]  Criar componentes da ChallengePage
     - [ ]  Criar NextButtonWidget
         - label
@@ -190,6 +192,7 @@ Criando os widgets da home
 
 <details>
 <summary>Day 5</summary>
+    
 - [ ]  Criar componentes da ChallengePage
     - [ ]  Criar NextButtonWidget
         - label
