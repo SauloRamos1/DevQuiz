@@ -1,12 +1,34 @@
 
-# DevQuiz
+## ✅ DevQuiz
 
 A Flutter project created on NextLevelWeek 05.
 
-![Screenshot_select-area_20210424021829](https://user-images.githubusercontent.com/82850970/115948259-8866e000-a4a3-11eb-920d-31020e49f822.png)
-![Screenshot_select-area_20210424021922](https://user-images.githubusercontent.com/82850970/115948263-8a30a380-a4a3-11eb-8626-21d20379db8e.png)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/1509692/115949955-c61d3600-a4ae-11eb-8025-552e13afbcca.png"/>
+  </a>
+</p>
 
-https://www.figma.com/file/M5BUOZMoLds8KcWEUpqQwb/DevQuiz-Copy?node-id=0%3A1
+
+## ✅ Material
+
+- [Figma Project](https://www.figma.com/file/oee9kcqSdTnFoA6Q89qxGg/DevQuiz-(Copy)?node-id=0%3A1)
+- [Material da aula 1](https://www.notion.so/Material-para-a-aula-01-92b506e9339f4f8b9b50612c7a414289)
+- [Material da aula 2](https://www.notion.so/Roteiro-da-aula-331347b956d14167a92aeef7f85d3a23)
+- [Material da aula 3](https://www.notion.so/Roteiro-da-aula-4ff471e6c6274d82aaaf293734b5761f)
+- [Material da aula 4](https://www.notion.so/Roteiro-da-aula-5fbd5a7a2617430097c470ccc499ecce)
+- [Material da aula 5](https://www.notion.so/Roteiro-da-aula-a43961e5cdfd47128c97dfc57d217c9f)
+
+## ✅ VSCode Plugins
+
+- Awesome Flutter Snippets
+- Dart
+- Flutter
+- Error lens
+- Material Icon Theme
+- Dart Data Class Generator
+
+## ✅ Summary
+
 
 <details>
 <summary>Day 1</summary>
@@ -58,6 +80,7 @@ Criando os widgets da home
                 - background
               - shadow
 </details>
+
 <details>
 <summary>Day 2</summary>
 - [ ]  LevelButton
@@ -110,6 +133,7 @@ Criando os widgets da home
             ```
 
 </details>
+
 <details>
 <summary>Day 3</summary>
 - [ ]  Estruturando os dados do aplicativo
@@ -140,6 +164,7 @@ Criando os widgets da home
     - [ ]  getUser
     - [ ]  getQuizzes
 </details>
+    
 <details>
 <summary>Day 4</summary>
 - [ ]  Criar componentes da ChallengePage
@@ -161,6 +186,7 @@ Criando os widgets da home
     - labelButton
     - onTap
 </details>
+
 <details>
 <summary>Day 5</summary>
 - [ ]  Criar componentes da ChallengePage
@@ -181,3 +207,11 @@ Criando os widgets da home
     - subtitle
     - labelButton
     - onTap
+</details>
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/82850970/115948259-8866e000-a4a3-11eb-920d-31020e49f822.png"/>
+ <img src="https://user-images.githubusercontent.com/82850970/115948263-8a30a380-a4a3-11eb-8626-21d20379db8e.png"/>
+ </p>
+
+Readme based on [danielschmitz repository] (https://github.com/danielschmitz/devquiz). 
